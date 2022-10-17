@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as a,c as o,b as e,d as r}from"./app.bed35d21.js";const c={},s=e("h1",{id:"vite",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#vite","aria-hidden":"true"},"#"),r(" Vite")],-1),i=[s];function n(_,d){return a(),o("div",null,i)}const f=t(c,[["render",n],["__file","Vite.html.vue"]]);export{f as default};
