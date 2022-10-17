@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://molimamcc.github.io/MyBlog/MyBlog/sitemap.xml
